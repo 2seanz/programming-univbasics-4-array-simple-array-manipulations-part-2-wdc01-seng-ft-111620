@@ -4,4 +4,4 @@ end
 
 def using_insert
   @list_of_programming_languages = ["Ruby", "JavaScript", "Java", "C#", "Objective C", "C++", "PHP"]
-  
+  @new_array = @list_of_programming_languages.insert
